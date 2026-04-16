@@ -108,15 +108,6 @@ O sistema exibe:
 
 ---
 
-## 🚀 Possíveis Melhorias
-
-* Integração com API de clima (Python)
-* Previsão de chuva
-* Análise de dados com R
-* Uso de sensores reais
-
----
-
 ## 📚 Conclusão
 
 O projeto demonstra como a tecnologia pode ser aplicada na agricultura para otimizar recursos, principalmente a água.
